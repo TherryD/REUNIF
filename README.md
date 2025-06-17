@@ -1,2 +1,3 @@
 # REUNIF
-Este é um sistema desenvolvido em Java, utilizando interface gráfica com Swing e criado na IDE IntelliJ IDEA. O principal objetivo do projeto é gerenciar o cadastro de usuários para o refeitório, oferecendo uma solução prática e eficiente para o controle de acesso e registro de dados.
+This is a system developed in Java, using a graphical interface with Swing and created in the IDE IntelliJ IDEA. The main objective of the project is to manage the user registration for the cafeteria, offering a practical and efficient solution for access control and data registration.
+
